@@ -5,8 +5,8 @@
 ### Data Intelligence Master's Student · AI & ML Engineer · ISEP Paris
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-khushigajjar.github.io-black?style=for-the-badge&logo=github)](https://khushigajjar.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/khushigajjar)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:khushigajjar@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/khushigajjar18)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:khushigajjar218@email.com)
 
 </div>
 
