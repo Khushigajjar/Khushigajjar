@@ -110,25 +110,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Khushigajjar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khushigajjar&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
 
 ## 💡 Dev Quote of the Day
 
@@ -142,7 +127,7 @@
 
 <div align="center">
 
-### 📬 Open to Opportunities — July 2026
+### 📬 Open to Opportunities 
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366f1?style=for-the-badge)](https://khushigajjar.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushigajjar)
