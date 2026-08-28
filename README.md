@@ -130,7 +130,7 @@
 ### 📬 Open to Opportunities 
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366f1?style=for-the-badge)](https://khushigajjar.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushigajjar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushigajjar18)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushigajjar@email.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
